@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top Face of Package -->
+    <path
+        android:fillColor="#78AEED"
+        android:pathData="M 54,28 L 76,40 L 54,52 L 32,40 Z" />
+    <!-- Left Face -->
+    <path
+        android:fillColor="#3584E4"
+        android:pathData="M 32,40 L 54,52 L 54,80 L 32,68 Z" />
+    <!-- Right Face -->
+    <path
+        android:fillColor="#1C71D8"
+        android:pathData="M 54,52 L 76,40 L 76,68 L 54,80 Z" />
+    <!-- Center Crease / Flatpak Tape -->
+    <path
+        android:fillColor="#99C1F1"
+        android:pathData="M 50,30 L 58,34.5 L 58,49.5 L 50,45 Z" />
+    <!-- Download Arrow Emblem on Left Face -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 40,51 L 46,54.5 L 46,58 L 48,58 L 48,54 L 46,51 Z" />
+</vector>

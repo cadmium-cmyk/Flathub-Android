@@ -1,0 +1,6 @@
+{
+  "name": "Flathub",
+  "description": "Explore, search, and download Flatpak apps from Flathub with links to send to Linux devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
